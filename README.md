@@ -20,29 +20,4 @@ Currently leading the embedded, sensor and test infrastructure team at InfoDif.
 
 **Verification** — MISRA C/C++, AUTOSAR, ASPICE, ERTMS/ETCS. Cantata, Tessy, Trace32, Vector CANoe/CANalyzer, dSPACE HIL, PXI ATE.
 
-## Selected work
-
-| Project | Domain |
-|---|---|
-| **ASENA** — acoustic UAV and ground target detection; propeller signature classification, TDOA localisation across synchronised nodes | Defense |
-| **I-Bex SMS** — SAPIENT-based sensor management suite; multi-vendor fusion into one operator view | Defense |
-| **EMES-15 modernisation** — PXI automated test equipment for Leopard 2A4 fire control boards | Defense |
-| **CityAirbus NextGen / Lilium Jet** — radar software for eVTOL aircraft | Aerospace |
-| **ETBİS** — nationwide e-commerce registry for the Ministry of Trade; microservice architecture, e-Government integration | Government |
-| **Visual archive search** — air-gapped vision-language retrieval over a news agency's video archive | AI |
-| **DriveHive / ADAS route planner** — autonomous driving data logistics and OpenDrive HD-map route planning | Automotive |
-| **STM** — SIL 4 specific transmission module for railway signalling | Rail |
-
-Earlier: founded Meteor Labs, where I ran biomimetic R&D on chlorophyll-based solar panels and chlorophyll-derived artificial blood, holding a national patent and a German utility model, alongside embedded and automation consultancy.
-
-## Here on GitHub
-
-Public repositories are the smaller, self-contained things — drivers, libraries, tooling and the setup I run day to day. Client work stays with the client.
-
-- **[zenbook-s14-arch](https://github.com/dechros/zenbook-s14-arch)** — post-install configuration for a Zenbook S14 on Arch with KDE Wayland, including a local LLM served from the iGPU
-- **[bldc-driver](https://github.com/dechros/bldc-driver)** — ESP32 BLDC motor driver firmware
-- **[interval-map](https://github.com/dechros/interval-map)** — interval map container for C++
-- **[mcp2515-mbed](https://github.com/dechros/mcp2515-mbed)** — MCP2515 CAN library for ARM mbed
-- **[tdf8546-library](https://github.com/dechros/tdf8546-library)** — TDF8546 opamp driver for STM32
-
 halitcetin@live.com · [linkedin.com/in/halit-cetin](https://www.linkedin.com/in/halit-cetin/)
